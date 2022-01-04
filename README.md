@@ -64,7 +64,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-<center>
+<div align="center">
 
 ### My social accounts
 ![](https://avatars.githubusercontent.com/u/42042270?s=48&v=4)
@@ -74,7 +74,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harlericho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harlericho)
 
-</center>
+</div>
 
 <p align="center"><strong>Copyright © 2022 Harlericho</strong></p>
 
