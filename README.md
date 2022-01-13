@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Social networking
 
-Here you can find me as more security for any questions:
+Here you can find me with greater security for any query:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harlericho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harlericho)
@@ -33,7 +33,8 @@ My personal portfolio:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 Clone django api book project to your local machine:
-### `https://github.com/harlericho/django_api_books.git`
+## [https://github.com/harlericho/django_api_books.git](https://github.com/harlericho/django_api_books.git)
+
 
 # Available Scripts
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
